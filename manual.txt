@@ -1,0 +1,21 @@
+How to try it:
+
+Start/Stop
+Click Start to begin the metronome.
+Adjust BPM using the dial (drag around, or scroll).
+
+Mixer
+Play with Quarter / 8th / 16th / Triplet sliders to hear each layer.
+
+Speed Trainer
+Enable it, set step, every-bars, and max; let it ramp up as you play.
+
+Gap Click
+Enable, choose A/B bars, and feel the silent bars testing your internal pulse.
+
+Timing Analyzer
+Switch to Timing Analyzer tab.
+Start the metronome.
+
+Use On-screen Hit: tap the Hit button in time; watch offsets.
+Try Microphone: switch to Mic, grant permission, play/clap; adjust threshold to ignore room noise.
